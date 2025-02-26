@@ -7,7 +7,7 @@ AUTO SWAP SONEIUM MAINNET
 - Multi account
 
 ## RETROACTIVE 
-
+## USE MODULE LATEST WEB3 (7.2)
 
 
 
